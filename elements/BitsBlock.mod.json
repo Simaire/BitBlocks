@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "Bits Block",
+    "icon": {
+      "value": "Blocks.STRUCTURE_BLOCK#4"
+    },
+    "showSearch": true
+  }
+}
