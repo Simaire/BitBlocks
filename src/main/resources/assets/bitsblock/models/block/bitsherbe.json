@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bitsblock:blocks/grass_side",
+    "up": "bitsblock:blocks/grass_side",
+    "north": "bitsblock:blocks/grass_side",
+    "east": "bitsblock:blocks/grass_side",
+    "south": "bitsblock:blocks/grass_side",
+    "west": "bitsblock:blocks/grass_side",
+    "particle": "bitsblock:blocks/grass_side"
+  }
+}

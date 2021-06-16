@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bitsblock:blocks/log_acacia_top",
+    "up": "bitsblock:blocks/log_acacia_top",
+    "north": "bitsblock:blocks/log_acacia",
+    "east": "bitsblock:blocks/log_acacia",
+    "south": "bitsblock:blocks/log_acacia",
+    "west": "bitsblock:blocks/log_acacia",
+    "particle": "bitsblock:blocks/log_acacia_top"
+  }
+}

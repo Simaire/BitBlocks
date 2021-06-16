@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bitsblock:blocks/log_birch_top",
+    "up": "bitsblock:blocks/log_birch_top",
+    "north": "bitsblock:blocks/log_birch",
+    "east": "bitsblock:blocks/log_birch",
+    "south": "bitsblock:blocks/log_birch",
+    "west": "bitsblock:blocks/log_birch",
+    "particle": "bitsblock:blocks/log_birch_top"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bitsblock:blocks/log_oak_top",
+    "up": "bitsblock:blocks/log_oak_top",
+    "north": "bitsblock:blocks/log_big_oak",
+    "east": "bitsblock:blocks/log_oak",
+    "south": "bitsblock:blocks/log_oak",
+    "west": "bitsblock:blocks/log_oak",
+    "particle": "bitsblock:blocks/log_oak_top"
+  }
+}

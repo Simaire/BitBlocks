@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bitsblock:blocks/cobblestone",
+    "up": "bitsblock:blocks/cobblestone",
+    "north": "bitsblock:blocks/cobblestone",
+    "east": "bitsblock:blocks/cobblestone",
+    "south": "bitsblock:blocks/cobblestone",
+    "west": "bitsblock:blocks/cobblestone",
+    "particle": "bitsblock:blocks/cobblestone"
+  }
+}

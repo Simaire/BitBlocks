@@ -1,0 +1,127 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BitsBlock",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BitsPierres",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BitsHerbe",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BitsTerre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BitsBucheDeChene",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BitsBucheDeLaJungle",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BitsBucheDeCheneNoire",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BitsBucheDeBoulo",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BitsBucheDeSapin",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BitsBucheDAcacia",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BitsPlancheDAcacia",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "tile.bitsbuchedelajungle.name": "Bits Buche De La Jungle",
+      "tile.bitsbuchedesapin.name": "Bits Buche De Sapin",
+      "tile.bitsbuchedechenenoire.name": "Bits Buche De Chene Noire",
+      "tile.bitsbuchedacacia.name": "Bits Buche D Acacia",
+      "tile.bitsbuchedechene.name": "Bits Buche De Chene",
+      "tile.bitsbuchedeboulo.name": "Bits Buche De Boulo",
+      "tile.bitspierres.name": "Bits Pierres",
+      "tile.bitsherbe.name": "Bits Herbe",
+      "itemGroup.tabbitsblock": "Bits Block",
+      "tile.bitsplanchedacacia.name": "Bits Planche D Acacia",
+      "tile.bitsterre.name": "Bits Terre"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "bitsblock",
+    "modName": "BitsBlock",
+    "version": "1.0.0",
+    "author": "gweno, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "modElementsPackage": "fr.simaire.bitsblock",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
